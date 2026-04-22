@@ -6,7 +6,7 @@ I am a **Data Science** and **MS Business Analytics student** focused on buildin
 * **Languages:** Python, R, T-SQL, Java
 * **Data Engineering:** AWS, Snowflake, Databricks, MySQL
 * **Modeling:** Random Forest, Gradient Boosting, Neural Networks, LASSO, KNN
-* **Tools:** FastAPI, Tableau, Git/GitHub, SSMS
+* **Tools:** Tableau, Git/GitHub, SSMS
 
 ### 🏆 Honors & Recognition
 * **Outstanding MS-Business Analytics Student (2026):** Sole program recipient recognized for academic excellence and leadership.
